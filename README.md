@@ -19,7 +19,13 @@
 Model Evaluation: Once the model is trained, we evaluate the model's performance using a suitable error metric
 
 
+# OUTPUTS
+## 1. main frame
+![q1](https://user-images.githubusercontent.com/30631749/31858521-47e03838-b717-11e7-9dd4-0a35e79d766c.PNG)
+## 2. relation between Platform and Genre.
+![c1](https://user-images.githubusercontent.com/30631749/31858529-80e78320-b717-11e7-885d-845731017354.PNG)
+### use heatmap for ease of understanding
+![cs](https://user-images.githubusercontent.com/30631749/31858595-57cff682-b719-11e7-8321-65a15a30e72b.png)
 
-
-
-
+## 3. comparation of each area in each genre
+![ca](https://user-images.githubusercontent.com/30631749/31858628-e6e69a42-b719-11e7-83ac-cd3f63802906.png)
